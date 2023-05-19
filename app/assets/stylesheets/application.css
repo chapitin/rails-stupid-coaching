@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+ .italics {
+  font-style: italic;
+ }
+
+.container {
+  margin-left: 1em;
+}
+
+.gray-margin {
+  border-left: solid 0.5em;
+  border-left-color: lightgray;
+  margin: 1em;
+  padding-left: 1em;
+  margin-bottom: 1.5em;
+}
+
+.light-yellow-background {
+  background-color:cornsilk;
+}
+
+#coach-answer {
+  font-style: bold;
+}
+
+
